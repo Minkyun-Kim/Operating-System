@@ -1,7 +1,0 @@
-mount DISKFull.img
-ls
-touch x1000
-mkdir d1000
-ls
-fsck
-exit
